@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-06-08T00:00:00Z",
+  "files": {
+    "unlocode_part1": {
+      "filename": "UNLOCODE CodeListPart1 2025-1 v1.csv",
+      "version": "2025-1-v1",
+      "url": "https://github.com/PTL-base/PortAero_DB/blob/main/UNLOCODE%20CodeListPart1%202025-1%20v1.csv",
+      "sha256": "A578F1CAA76850F0D46FF7DAB71BED53BE84F8A0B0B3B6157E7DE6D169BA37F2"
+    },
+    "unlocode_part2": {
+      "filename": "UNLOCODE CodeListPart2 2025-1 v1.csv",
+      "version": "2025-1-v1",
+      "url": "https://github.com/PTL-base/PortAero_DB/blob/main/UNLOCODE%20CodeListPart2%202025-1%20v1.csv",
+      "sha256": "B63C997FD42ACFFFBC8B3D8DD4AD6D97182DD8A0F123F6FA29BAD41219B68DCC"
+    },
+    "unlocode_part3": {
+      "filename": "UNLOCODE CodeListPart3 2025-1 v1.csv",
+      "version": "2025-1-v1",
+      "url": "https://github.com/PTL-base/PortAero_DB/blob/main/UNLOCODE%20CodeListPart3%202025-1%20v1.csv",
+      "sha256": "65898AEF20602D63B5394AF4EBB2DDB1F0D0AD2EE0841C07040046B111A9371D"
+    },
+    "airports": {
+      "filename": "airports 2026.06.07 v1.csv",
+      "version": "2026-06-07-v1",
+      "url": "https://github.com/PTL-base/PortAero_DB/blob/main/airports%202026.06.07%20v1.csv",
+      "sha256": "05DBD3D0D9E144DFA9E663BF144D28C8F47D83C703AD7E10F08BA8ECB9C86619"
+    }
+  }
+}
