@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 1.1,
   "updated_at": "2026-06-08T00:00:00Z",
   "files": {
     "unlocode_part1": {
@@ -21,10 +21,10 @@
       "sha256": "65898AEF20602D63B5394AF4EBB2DDB1F0D0AD2EE0841C07040046B111A9371D"
     },
     "airports": {
-      "filename": "airports 2026.06.07 v1.csv",
+      "filename": "airports 2026.07.24 v1.1.csv",
       "version": "2026-06-07-v1",
-      "url": "https://github.com/PTL-base/PortAero_DB/blob/main/airports%202026.06.07%20v1.csv",
-      "sha256": "05DBD3D0D9E144DFA9E663BF144D28C8F47D83C703AD7E10F08BA8ECB9C86619"
+      "url": "https://github.com/PTL-base/PortAero_DB/blob/main/airports%202026.07.24%20v1.1.csv",
+      "sha256": "3FE71568CC679C34B6460C54C8F6DB39D7DBB9940D02C94FE963AE8DF53F19E1"
     }
   }
 }
