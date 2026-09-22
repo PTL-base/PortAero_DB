@@ -1,6 +1,6 @@
 {
-  "schema_version": 1.1,
-  "updated_at": "2026-06-08T00:00:00Z",
+  "schema_version": 1.2,
+  "updated_at": "2026-09-22T00:00:00Z",
   "files": {
     "unlocode_part1": {
       "filename": "UNLOCODE CodeListPart1 2025-1 v1.csv",
@@ -21,10 +21,10 @@
       "sha256": "65898AEF20602D63B5394AF4EBB2DDB1F0D0AD2EE0841C07040046B111A9371D"
     },
     "airports": {
-      "filename": "airports 2026.07.24 v1.1.csv",
-      "version": "2026-06-07-v1",
-      "url": "https://github.com/PTL-base/PortAero_DB/blob/main/airports%202026.07.24%20v1.1.csv",
-      "sha256": "3FE71568CC679C34B6460C54C8F6DB39D7DBB9940D02C94FE963AE8DF53F19E1"
+      "filename": "airports 2026.09.22 v1.2.csv",
+      "version": "2026-09-22-v1.2",
+      "url": "https://github.com/PTL-base/PortAero_DB/blob/main/airports%202026.09.22%20v1.2.csv",
+      "sha256": "707E30A673E031C66AFF9A3E5837A550D7449A130B839F44DE8301F9B0C79BA1"
     }
   }
 }
